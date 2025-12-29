@@ -1,0 +1,13 @@
+git cherry-pick cid
+
+git status
+
+
+git add .
+
+git status
+
+git commit -m "Added All Files"
+
+
+git log 
