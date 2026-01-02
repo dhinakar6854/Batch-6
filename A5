@@ -1,6 +1,2 @@
-git init
-git status
-git add .
-git commit -m "hello git"
-git remote add origin 
-git push origin mastet
+
+
